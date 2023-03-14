@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
     <folder name="MyDocuments">
-        <folder name="אלגברה ליניארית 2">
-            <folder name="שיעורים"/>
-            <folder name="תרגולים"/>
-        </folder>
         <folder name="אינפי">
             <folder name="סדנה">
                 <folder name="שבוע 1"/>
@@ -15,6 +11,10 @@
             <folder name="תרגולים">
                 <folder name="שבוע 1"/>
             </folder>
+        </folder>
+        <folder name="אלגברה ליניארית 2">
+            <folder name="שיעורים"/>
+            <folder name="תרגולים"/>
         </folder>
         <folder name="חשמל ומגניטיות">
             <folder name="שיעורים">
@@ -27,6 +27,9 @@
             </folder>
         </folder>
         <folder name="מת&quot;פ 2">
+            <folder name="תרגולים">
+                <folder name="שבוע 1"/>
+            </folder>
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
             </folder>
