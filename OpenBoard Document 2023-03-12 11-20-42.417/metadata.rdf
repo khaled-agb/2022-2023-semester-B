@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/ae721c5a-60df-4de2-bf53-be236dc36127">
+        <dc:title>3/12/2023 11:20 AM</dc:title>
+        <dc:type>MyDocuments/חשמל ומגניטיות/שיעורים/שבוע 1</dc:type>
+        <dc:date>2023-03-12T09:20:42ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/ae721c5a-60df-4de2-bf53-be236dc36127</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-03-13T14:04:11ZZ</ub:updated-at>
+    </Description>
+</RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ub="http://uniboard.mnemis.com/document" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="1.1" ub:version="4.8.0" ub:uuid="ed6e167b-a82c-4822-a4e1-a752949efd69" viewBox="-690 -530 1380 1060" ub:nominal-size="1280x960" ub:dark-background="false" ub:crossed-background="true" ub:ruled-background="false" ub:grid-size="55" ub:intermediate-lines="0" pageDpi="158">
+    <rect fill="white" x="-690" y="-530" width="1380" height="1060"/>
+    <g ub:z-value="-999998" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="848c0634-03fc-4390-862c-0d4df140f158" ub:layer="-1000">
+        <polygon points="105.713,467.331 106.663,466.857 106.662,466.856 106.967,466.745 107.3,466.706 108.307,467.123 108.724,468.131 107.937,469.405 106.987,469.879 106.987,469.879 106.683,469.991 106.35,470.03 105.343,469.612 104.926,468.605 105.713,467.331 105.713,467.331 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="b5a18fd1-a749-4f11-8703-c5e39fca33ce" ub:parent="848c0634-03fc-4390-862c-0d4df140f158"/>
+    </g>
+    <g ub:z-value="-999996" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="1bf39888-e71c-4e6c-b317-586053da11ab" ub:layer="-1000">
+        <polygon points="107.75,463.931 113.447,465.83 113.448,465.829 114.147,466.34 114.421,467.181 114.004,468.188 112.997,468.605 112.546,468.533 106.849,466.633 106.849,466.633 106.15,466.123 105.875,465.282 106.293,464.275 107.3,463.858 107.75,463.93 107.75,463.931 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="92f40fe3-cc67-4c9e-9368-3a97c3442769" ub:parent="1bf39888-e71c-4e6c-b317-586053da11ab"/>
+    </g>
+    <g ub:z-value="-999997" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="f49875af-fb6b-440e-b7ad-e6a3fad8a632" ub:layer="-1000">
+        <polygon points="107.245,466.604 104.872,465.655 104.871,465.655 103.976,464.332 104.393,463.325 105.401,462.908 105.674,462.934 105.93,463.01 108.303,463.959 108.304,463.959 109.199,465.282 108.782,466.289 107.774,466.706 107.501,466.68 107.245,466.605 107.245,466.604 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="fa38e8af-81d8-4853-afbf-e06d519a4b3f" ub:parent="f49875af-fb6b-440e-b7ad-e6a3fad8a632"/>
+    </g>
+    <g ub:z-value="-999999" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="1e1fe800-cadb-4f49-a8f5-43de46c4e681" ub:layer="-1000">
+        <polygon points="180.415,0.474777 181.423,0.891955 181.84,1.89911 181.423,2.90626 180.415,3.32344 179.408,2.90626 178.991,1.89911 179.408,0.891955 180.415,0.474777 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="3b86f58e-3377-4d1c-92c5-3d1c2ade347c" ub:parent="1e1fe800-cadb-4f49-a8f5-43de46c4e681"/>
+    </g>
+    <g ub:z-value="-999998" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="848c0634-03fc-4390-862c-0d4df140f158" ub:layer="-1000">
+        <polygon points="106.35,464.807 107.357,465.224 107.774,466.231 107.357,467.239 106.35,467.656 105.343,467.239 104.926,466.231 105.343,465.224 106.35,464.807 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="d29d5e63-34d9-4d4e-9dc2-145f96314dec" ub:parent="848c0634-03fc-4390-862c-0d4df140f158"/>
+        <polygon points="107.774,466.231 107.774,468.605 107.357,469.612 106.35,470.03 105.343,469.612 104.926,468.605 104.926,466.231 107.774,466.231 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="1fbfb2e5-0d68-47d8-8088-71523e59c64b" ub:parent="848c0634-03fc-4390-862c-0d4df140f158"/>
+    </g>
+    <g ub:z-value="-999997" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="f49875af-fb6b-440e-b7ad-e6a3fad8a632" ub:layer="-1000">
+        <polygon points="110.148,464.807 111.156,465.224 111.573,466.231 111.156,467.239 110.148,467.656 109.141,467.239 108.724,466.231 109.141,465.224 110.148,464.807 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="183fc756-b08e-4c7d-91a5-b79e2f102997" ub:parent="f49875af-fb6b-440e-b7ad-e6a3fad8a632"/>
+        <polygon points="109.619,467.554 107.245,466.604 107.245,466.605 106.35,465.282 106.767,464.275 107.774,463.858 108.048,463.884 108.304,463.959 108.303,463.959 110.677,464.909 109.619,467.554 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="ee32922c-a6f5-4270-abb0-3893c2a3bbb8" ub:parent="f49875af-fb6b-440e-b7ad-e6a3fad8a632"/>
+    </g>
+    <g ub:z-value="-999996" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="1bf39888-e71c-4e6c-b317-586053da11ab" ub:layer="-1000">
+        <polygon points="107.3,463.858 108.307,464.275 108.724,465.282 108.307,466.289 107.3,466.706 106.293,466.289 105.875,465.282 106.293,464.275 107.3,463.858 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="8718c50f-92b2-40d3-a39e-f64ee838b682" ub:parent="1bf39888-e71c-4e6c-b317-586053da11ab"/>
+    </g>
+</svg>
