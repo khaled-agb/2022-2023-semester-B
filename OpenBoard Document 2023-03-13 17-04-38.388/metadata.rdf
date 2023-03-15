@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
     <Description about="http://uniboard.mnemis.com/document/a432e2e8-68ad-4a10-ac1c-a42abd2ad51c">
-        <dc:title>3/13/2023 5:04 PM</dc:title>
-        <dc:type>MyDocuments/אינפי/שיעורים/שבוע 1</dc:type>
+        <dc:title>3/13/2023 5:04 PM 1</dc:title>
+        <dc:type>/_Trash:</dc:type>
         <dc:date>2023-03-13T15:04:38ZZ</dc:date>
         <dc:format>image/svg+xml</dc:format>
         <dc:identifier>http://uniboard.mnemis.com/document/a432e2e8-68ad-4a10-ac1c-a42abd2ad51c</dc:identifier>
         <ub:version>4.8.0</ub:version>
         <ub:size>1280x960</ub:size>
-        <ub:updated-at>2023-03-13T15:26:51ZZ</ub:updated-at>
+        <ub:updated-at>2023-03-15T06:13:08ZZ</ub:updated-at>
     </Description>
 </RDF>

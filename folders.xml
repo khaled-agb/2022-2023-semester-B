@@ -13,7 +13,9 @@
             </folder>
         </folder>
         <folder name="אלגברה ליניארית 2">
-            <folder name="שיעורים"/>
+            <folder name="שיעורים">
+                <folder name="שבוע 1"/>
+            </folder>
             <folder name="תרגולים"/>
         </folder>
         <folder name="חשמל ומגניטיות">
@@ -27,10 +29,10 @@
             </folder>
         </folder>
         <folder name="מת&quot;פ 2">
-            <folder name="תרגולים">
+            <folder name="שיעורים">
                 <folder name="שבוע 1"/>
             </folder>
-            <folder name="שיעורים">
+            <folder name="תרגולים">
                 <folder name="שבוע 1"/>
             </folder>
         </folder>
