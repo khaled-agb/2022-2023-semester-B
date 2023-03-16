@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/cf485070-ffb4-44e6-9a48-86b51fe1d02e">
+        <dc:title>80154_2022-2023_Ex 1 1</dc:title>
+        <dc:type>MyDocuments/אלגברה ליניארית 2/targili bayet/targil 1</dc:type>
+        <dc:date>2023-03-16T15:30:49ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/cf485070-ffb4-44e6-9a48-86b51fe1d02e</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>790x1023</ub:size>
+        <ub:updated-at>2023-03-16T20:49:15ZZ</ub:updated-at>
+        <ub:page-count>5</ub:page-count>
+    </Description>
+</RDF>
