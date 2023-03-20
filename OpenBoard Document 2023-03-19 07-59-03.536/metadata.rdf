@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/07cb4529-8835-49fd-b5d7-5caaed444650">
+        <dc:title>12/03/2023 7:59</dc:title>
+        <dc:type>MyDocuments/מת&quot;פ 2/שיעורים/שבוע 1</dc:type>
+        <dc:date>2023-03-19T05:59:03ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/07cb4529-8835-49fd-b5d7-5caaed444650</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-03-19T16:53:32ZZ</ub:updated-at>
+        <ub:page-count>1</ub:page-count>
+    </Description>
+</RDF>

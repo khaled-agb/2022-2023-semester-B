@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ub="http://uniboard.mnemis.com/document" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="1.1" ub:version="4.8.0" ub:uuid="f2484b51-ac25-42ce-9087-89f5faf89621" viewBox="-445 -561 890 1123" ub:nominal-size="790x1023" ub:dark-background="false" ub:crossed-background="true" ub:ruled-background="false" ub:grid-size="32" ub:intermediate-lines="0" pageDpi="93">
+    <rect fill="white" x="-445" y="-561" width="890" height="1123"/>
+    <image xlink:href="images/{e3ade649-6f4b-4800-a22c-223052d0b45b}.png" x="0" y="0" width="441" height="150" transform="matrix(1, 0, 0, 1, -53.0415, -503.963)" ub:z-value="-999999.000000" ub:background="false" ub:uuid="e3ade649-6f4b-4800-a22c-223052d0b45b" ub:source="/home/khaled/.local/share/OpenBoard/document/OpenBoard Document 2023-03-17 06-52-24.731/images/{e3ade649-6f4b-4800-a22c-223052d0b45b}.png" ub:layer="-1000"/>
+</svg>
