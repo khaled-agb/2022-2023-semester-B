@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/a0a0a679-3d91-4bef-a97c-0b52f70e1c1b">
+        <dc:title>3/21/2023 2:01 PM</dc:title>
+        <dc:type>MyDocuments/אינפי/תרגולים/שבוע 2</dc:type>
+        <dc:date>2023-03-21T12:01:52ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/a0a0a679-3d91-4bef-a97c-0b52f70e1c1b</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-03-21T13:42:22ZZ</ub:updated-at>
+    </Description>
+</RDF>

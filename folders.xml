@@ -2,9 +2,6 @@
 <content>
     <folder name="MyDocuments">
         <folder name="אינפי">
-            <folder name="תרגילי בית">
-                <folder name="תרגיל 1"/>
-            </folder>
             <folder name="סדנה">
                 <folder name="שבוע 1"/>
             </folder>
@@ -13,18 +10,35 @@
             </folder>
             <folder name="תרגולים">
                 <folder name="שבוע 1"/>
+                <folder name="שבוע 2"/>
+            </folder>
+            <folder name="תרגילי בית">
+                <folder name="תרגיל 1"/>
             </folder>
         </folder>
         <folder name="אלגברה ליניארית 2">
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
+                <folder name="שבוע 2"/>
             </folder>
             <folder name="תרגולים"/>
         </folder>
         <folder name="חשמל ומגניטיות">
+            <folder name="מת&quot;פ 2">
+                <folder name="שיעורים">
+                    <folder name="שבוע 1"/>
+                    <folder name="שבוע 2"/>
+                </folder>
+                <folder name="תרגולים">
+                    <folder name="שבוע 1"/>
+                    <folder name="שבוע 2"/>
+                </folder>
+            </folder>
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
+                <folder name="שבוע 2"/>
             </folder>
+            <folder name="תרגולים"/>
         </folder>
         <folder name="מבוא למדמ&quot;ח">
             <folder name="שיעורים">
@@ -35,17 +49,7 @@
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
             </folder>
-            <folder name="תרגולים">
-                <folder name="שבוע 1"/>
-            </folder>
         </folder>
     </folder>
-    <folder name="_Trash:">
-        <folder name="New Folder"/>
-        <folder name="אלגברה ליניארית 2">
-            <folder name="תרגולים">
-                <folder name="שבוע 1"/>
-            </folder>
-        </folder>
-    </folder>
+    <folder name="_Trash:"/>
 </content>

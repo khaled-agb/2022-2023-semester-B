@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/1fb0f7e5-36c2-4ce0-af46-4acc4973675f">
+        <dc:title>Trigul2</dc:title>
+        <dc:type>MyDocuments/חשמל ומגניטיות/תרגולים</dc:type>
+        <dc:date>2023-03-22T11:41:16ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/1fb0f7e5-36c2-4ce0-af46-4acc4973675f</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1343x1738</ub:size>
+        <ub:updated-at>2023-03-22T12:37:50ZZ</ub:updated-at>
+    </Description>
+</RDF>
