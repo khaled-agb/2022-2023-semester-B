@@ -2,12 +2,12 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
     <Description about="http://uniboard.mnemis.com/document/2fdbac78-efc2-4e2b-b33f-7fb39e9e0af0">
         <dc:title>3/12/2023 1:47 PM</dc:title>
-        <dc:type>MyDocuments/חשמל ומגניטיות/מת&quot;פ 2/שיעורים/שבוע 1</dc:type>
+        <dc:type>MyDocuments/מת&quot;פ 2/שיעורים/שבוע 1</dc:type>
         <dc:date>2023-03-12T11:47:37ZZ</dc:date>
         <dc:format>image/svg+xml</dc:format>
         <dc:identifier>http://uniboard.mnemis.com/document/2fdbac78-efc2-4e2b-b33f-7fb39e9e0af0</dc:identifier>
         <ub:version>4.8.0</ub:version>
         <ub:size>1280x960</ub:size>
-        <ub:updated-at>2023-03-23T16:38:20ZZ</ub:updated-at>
+        <ub:updated-at>2023-03-25T11:31:56ZZ</ub:updated-at>
     </Description>
 </RDF>
