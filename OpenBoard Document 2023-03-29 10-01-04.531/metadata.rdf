@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/58d25e19-7b4b-4cef-b259-a34b60c1dbeb">
+        <dc:title>3/29/2023 10:01 AM</dc:title>
+        <dc:type>MyDocuments/אלגברה ליניארית 2/שיעורים/שבוע 3</dc:type>
+        <dc:date>2023-03-29T07:01:04ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/58d25e19-7b4b-4cef-b259-a34b60c1dbeb</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-03-29T09:57:26ZZ</ub:updated-at>
+    </Description>
+</RDF>
