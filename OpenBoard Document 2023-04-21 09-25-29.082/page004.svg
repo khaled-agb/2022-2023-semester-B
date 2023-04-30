@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ub="http://uniboard.mnemis.com/document" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="1.1" ub:version="4.8.0" ub:uuid="3f017584-e2ed-4242-a0e8-f8624d1dd608" viewBox="-721 -924 1445 1843" ub:nominal-size="1343x1738" ub:dark-background="false" ub:crossed-background="true" ub:ruled-background="false" ub:grid-size="55" ub:intermediate-lines="0" pageDpi="158">
+    <rect fill="white" x="-721" y="-924" width="1445" height="1843"/>
+    <image xlink:href="images/{089c068a-1e7e-4b54-92da-16875b0bd37d}.png" x="0" y="0" width="1080" height="190" transform="matrix(1, 0, 0, 1, -405.126, -873.133)" ub:z-value="-999999.000000" ub:background="false" ub:uuid="089c068a-1e7e-4b54-92da-16875b0bd37d" ub:layer="-1000"/>
+    <foreignObject ub:type="text" x="0" y="0" width="1121.5" height="224" transform="matrix(1, 0, 0, 1, -633.818, -589.719)" ub:z-value="-999998.000000" ub:background="false" ub:uuid="fec9fe41-522a-4c0d-9e1f-d4dc62c57230" ub:layer="-1000" ub:editable="true" ub:width="1121.5" ub:height="224" ub:pixels-per-point="2" ub:fill-on-dark-background="#000000" ub:fill-on-light-background="#000000">
+        <itemTextContent>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:17pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;(w * w)r + (v *∇)v = (w x (w x r)) + (∇(v · v) - v x (curl v)) = (w(w · r) - r(w · w)) + (∇(v · v) - v x (curl v))&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;where we have used the identities:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; -qt-list-indent: 1;&quot;&gt;&lt;li style=&quot; font-size:12pt;&quot; style=&quot; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;(a x b) x c = b(a · c) - a(b · c) (vector triple product identity)&lt;/li&gt;
+&lt;li style=&quot; font-size:12pt;&quot; style=&quot; margin-top:0px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;(a *∇)b = ∇(a · b) - a x (curl b) (product rule for the gradient)&lt;/li&gt;&lt;/ul&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Therefore, the simplified expression is:&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;(w(w · r) - r(w · w)) + (∇(v · v) - v x (curl v))&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</itemTextContent>
+    </foreignObject>
+</svg>
