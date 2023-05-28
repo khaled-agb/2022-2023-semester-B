@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/adf3979a-c762-44aa-9b55-4a1385f64187">
+        <dc:title>80154_2022-2023_Ex 6</dc:title>
+        <dc:type>_Trash:</dc:type>
+        <dc:date>2023-05-17T00:39:19ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/adf3979a-c762-44aa-9b55-4a1385f64187</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-05-17T00:39:19ZZ</ub:updated-at>
+    </Description>
+</RDF>

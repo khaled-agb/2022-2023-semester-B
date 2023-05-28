@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/1f6d0567-340e-4185-a544-63496f8d7855">
+        <dc:title>80154_2022-2023_Ex 6</dc:title>
+        <dc:type>MyDocuments/אלגברה ליניארית 2/תרגילי בית/תרגיל 6</dc:type>
+        <dc:date>2023-05-15T18:51:37ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/1f6d0567-340e-4185-a544-63496f8d7855</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1343x1738</ub:size>
+        <ub:updated-at>2023-05-24T12:47:54ZZ</ub:updated-at>
+    </Description>
+</RDF>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ub="http://uniboard.mnemis.com/document" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="1.1" ub:version="4.8.0" ub:uuid="682610e2-82ab-4269-beb4-6cc7a502f3f9" viewBox="-721 -919 1443 1838" ub:nominal-size="1343x1738" ub:dark-background="false" ub:crossed-background="true" ub:ruled-background="false" ub:grid-size="55" ub:intermediate-lines="0" pageDpi="158">
+    <rect fill="white" x="-721" y="-919" width="1443" height="1838"/>
+    <foreignObject requiredExtensions="http://ns.adobe.com/pdf/1.3/" xlink:href="objects/{acda284e-ac4b-494a-8a41-cde282ec1ee7}.pdf#page=1" x="0" y="0" width="1343" height="1738" transform="matrix(1, 0, 0, 1, -671.5, -869)" ub:z-value="-1000001.000000" ub:background="true" ub:uuid="00000000-0000-0000-0000-000000000000" ub:layer="-1000"/>
+    <g ub:z-value="-999997" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="15093468-6cb2-4380-a126-f9ee8822fadb" ub:layer="-1000">
+        <polygon points="-46.914,367.34 -46.914,367.953 -46.9863,368.311 -47.1835,368.604 -47.4758,368.801 -47.8339,368.873 -48.192,368.801 -48.4844,368.604 -48.6815,368.311 -48.7538,367.953 -48.7538,367.34 -48.6815,366.982 -48.4844,366.689 -48.192,366.492 -47.8339,366.42 -47.4758,366.492 -47.1835,366.689 -46.9863,366.982 -46.914,367.34 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="eb595720-b667-4c30-b88e-4327cb604ccc" ub:parent="15093468-6cb2-4380-a126-f9ee8822fadb"/>
+    </g>
+    <g ub:z-value="-999997" ub:fill-on-dark-background="#ffffff" ub:fill-on-light-background="#000000" ub:uuid="15093468-6cb2-4380-a126-f9ee8822fadb" ub:layer="-1000">
+        <polygon points="-47.8339,366.42 -47.4758,366.492 -47.1835,366.689 -46.9863,366.982 -46.914,367.34 -46.9863,367.698 -47.1835,367.99 -47.4758,368.187 -47.8339,368.26 -48.192,368.187 -48.4844,367.99 -48.6815,367.698 -48.7538,367.34 -48.6815,366.982 -48.4844,366.689 -48.192,366.492 -47.8339,366.42 " transform="matrix(1, 0, 0, 1, 0, 0)" fill="#000000" fill-opacity="1.00" fill-rule="evenodd" ub:uuid="e822ed35-13fc-4d93-ba2d-dcce5de6d745" ub:parent="15093468-6cb2-4380-a126-f9ee8822fadb"/>
+    </g>
+</svg>

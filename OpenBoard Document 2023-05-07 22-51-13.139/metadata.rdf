@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/905d0e6a-68f0-477a-b6e1-35eb8ec2cabf">
+        <dc:title>blank</dc:title>
+        <dc:type>MyDocuments/חשמל ומגניטיות/תרגילי בית 2/תרגיל 3</dc:type>
+        <dc:date>2023-05-07T19:51:13ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/905d0e6a-68f0-477a-b6e1-35eb8ec2cabf</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1343x1738</ub:size>
+        <ub:updated-at>2023-05-08T21:52:49ZZ</ub:updated-at>
+    </Description>
+</RDF>

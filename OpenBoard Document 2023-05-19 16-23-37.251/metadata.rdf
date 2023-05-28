@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/ff46f968-9f33-450f-875f-ac119db9566b">
+        <dc:title>blank</dc:title>
+        <dc:type>MyDocuments/מת&quot;פ 2/תרגילי בית/בוחן 4</dc:type>
+        <dc:date>2023-05-19T13:23:37ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/ff46f968-9f33-450f-875f-ac119db9566b</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1343x1738</ub:size>
+        <ub:updated-at>2023-05-20T13:52:59ZZ</ub:updated-at>
+    </Description>
+</RDF>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/9ac69a81-c8ce-41aa-b5bb-9ebd04535dc7">
+        <dc:title>5/11/2023 3:10 PM 1</dc:title>
+        <dc:type>/_Trash:</dc:type>
+        <dc:date>2023-05-11T12:10:40ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/9ac69a81-c8ce-41aa-b5bb-9ebd04535dc7</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-05-14T11:15:48ZZ</ub:updated-at>
+    </Description>
+</RDF>
