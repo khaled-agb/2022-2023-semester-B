@@ -31,7 +31,6 @@
         </folder>
         <folder name="אלגברה ליניארית 2">
             <folder name="שיעורים">
-                <folder name="שבוע 9"/>
                 <folder name="שבוע 1"/>
                 <folder name="שבוע 2"/>
                 <folder name="שבוע 3"/>
@@ -40,6 +39,7 @@
                 <folder name="שבוע 6"/>
                 <folder name="שבוע 7"/>
                 <folder name="שבוע 8"/>
+                <folder name="שבוע 9"/>
             </folder>
             <folder name="תרגולים"/>
             <folder name="תרגילי בית">
@@ -54,6 +54,7 @@
         </folder>
         <folder name="חשמל ומגניטיות">
             <folder name="נוסחאות"/>
+            <folder name="סדנה פעילה"/>
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
                 <folder name="שבוע 2"/>
@@ -71,11 +72,15 @@
                 <folder name="תרגיל 3"/>
                 <folder name="תרגיל 4"/>
                 <folder name="תרגיל 5"/>
+                <folder name="תרגיל 8"/>
             </folder>
             <folder name="תרגילי בית 2">
                 <folder name="תרגיל 1"/>
                 <folder name="תרגיל 2"/>
                 <folder name="תרגיל 3"/>
+            </folder>
+            <folder name="تجبور">
+                <folder name="1 - 4"/>
             </folder>
         </folder>
         <folder name="מבוא למדמ&quot;ח">
@@ -92,6 +97,7 @@
                 <folder name="בוחן 1"/>
                 <folder name="בוחן 2"/>
                 <folder name="בוחן 4"/>
+                <folder name="בוחן 5"/>
             </folder>
         </folder>
     </folder>
