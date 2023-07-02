@@ -2,12 +2,12 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
     <Description about="http://uniboard.mnemis.com/document/ba360509-5d78-4092-b5f3-554b5416df5a">
         <dc:title>6/8/2023 10:06 AM</dc:title>
-        <dc:type>MyDocuments/חשמל ומגניטיות/تجبور/New Folder</dc:type>
+        <dc:type>MyDocuments/חשמל ומגניטיות/تجبور/5</dc:type>
         <dc:date>2023-06-08T07:06:49ZZ</dc:date>
         <dc:format>image/svg+xml</dc:format>
         <dc:identifier>http://uniboard.mnemis.com/document/ba360509-5d78-4092-b5f3-554b5416df5a</dc:identifier>
         <ub:version>4.8.0</ub:version>
         <ub:size>1280x960</ub:size>
-        <ub:updated-at>2023-06-08T08:44:15ZZ</ub:updated-at>
+        <ub:updated-at>2023-06-12T15:23:14ZZ</ub:updated-at>
     </Description>
 </RDF>

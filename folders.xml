@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
     <folder name="MyDocuments">
+        <folder name="drawings"/>
         <folder name="אינפי">
             <folder name="סדנה">
                 <folder name="שבוע 1"/>
@@ -39,6 +40,7 @@
             <folder name="שיעורים">
                 <folder name="שבוע 1"/>
                 <folder name="שבוע 10"/>
+                <folder name="שבוע 11"/>
                 <folder name="שבוע 2"/>
                 <folder name="שבוע 3"/>
                 <folder name="שבוע 4"/>
@@ -51,6 +53,8 @@
             <folder name="תרגולים"/>
             <folder name="תרגילי בית">
                 <folder name="תרגיל 10"/>
+                <folder name="תרגיל 11"/>
+                <folder name="תרגיל 12"/>
                 <folder name="תרגיל 2"/>
                 <folder name="תרגיל 3"/>
                 <folder name="תרגיל 4"/>
@@ -77,11 +81,15 @@
             </folder>
             <folder name="תרגילי בית">
                 <folder name="תרגיל 1"/>
+                <folder name="תרגיל 10"/>
+                <folder name="תרגיל 11"/>
+                <folder name="תרגיל 12"/>
                 <folder name="תרגיל 2"/>
                 <folder name="תרגיל 3"/>
                 <folder name="תרגיל 4"/>
                 <folder name="תרגיל 5"/>
                 <folder name="תרגיל 8"/>
+                <folder name="תרגיל 9"/>
             </folder>
             <folder name="תרגילי בית 2">
                 <folder name="תרגיל 1"/>
@@ -90,7 +98,9 @@
             </folder>
             <folder name="تجبور">
                 <folder name="1 - 4"/>
-                <folder name="New Folder"/>
+                <folder name="5"/>
+                <folder name="6"/>
+                <folder name="7"/>
             </folder>
         </folder>
         <folder name="מבוא למדמ&quot;ח">
@@ -108,6 +118,9 @@
                 <folder name="בוחן 2"/>
                 <folder name="בוחן 4"/>
                 <folder name="בוחן 5"/>
+                <folder name="בוחן 6"/>
+                <folder name="בוחן 7"/>
+                <folder name="בוחן 8"/>
             </folder>
         </folder>
     </folder>

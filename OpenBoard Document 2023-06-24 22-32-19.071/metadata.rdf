@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/4afe4eb6-3028-47bb-9059-b42a0fd125c9">
+        <dc:title>carlos</dc:title>
+        <dc:type>MyDocuments/drawings</dc:type>
+        <dc:date>2023-06-24T19:32:19ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/4afe4eb6-3028-47bb-9059-b42a0fd125c9</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-06-24T19:42:57ZZ</ub:updated-at>
+    </Description>
+</RDF>

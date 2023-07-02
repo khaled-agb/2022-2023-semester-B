@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/517b2be2-4c3a-4199-a4ac-4e31617f6f70">
+        <dc:title>6/22/2023 2:10 PM</dc:title>
+        <dc:type>MyDocuments/חשמל ומגניטיות/تجبور/7</dc:type>
+        <dc:date>2023-06-22T11:10:11ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/517b2be2-4c3a-4199-a4ac-4e31617f6f70</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1280x960</ub:size>
+        <ub:updated-at>2023-06-24T13:07:14ZZ</ub:updated-at>
+    </Description>
+</RDF>

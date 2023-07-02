@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ub="http://uniboard.mnemis.com/document">
+    <Description about="http://uniboard.mnemis.com/document/29c1a93f-b522-4924-987e-dc47c3afc73e">
+        <dc:title>blank</dc:title>
+        <dc:type>MyDocuments/אלגברה ליניארית 2/תרגילי בית/תרגיל 11</dc:type>
+        <dc:date>2023-06-21T16:24:12ZZ</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:identifier>http://uniboard.mnemis.com/document/29c1a93f-b522-4924-987e-dc47c3afc73e</dc:identifier>
+        <ub:version>4.8.0</ub:version>
+        <ub:size>1343x1738</ub:size>
+        <ub:updated-at>2023-06-24T19:43:29ZZ</ub:updated-at>
+    </Description>
+</RDF>
